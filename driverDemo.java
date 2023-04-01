@@ -54,7 +54,7 @@ public void IndiaToday() throws InterruptedException {
 	  driver.manage().window().maximize();
 	  driver.get("https://www.indiatoday.in ");
   }
-//no such element found exception
+
   
 
   @AfterMethod
